@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  background-color: #0d111d; /* Dark charcoal/navy background */
+  color: #f3f4f6; /* Gray-100 text */
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
