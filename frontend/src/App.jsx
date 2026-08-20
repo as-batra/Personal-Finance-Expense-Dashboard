@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 
-const API_BASE_URL = 'http://localhost:5001/api/transactions';
+const API_BASE_URL =
+  'https://personal-finance-expense-dashboard-2.onrender.com/api/transactions';
 
 // Fixed monthly budget limits for each category in INR (₹)
 const BUDGET_LIMITS = {
